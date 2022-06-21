@@ -50,7 +50,7 @@ namespace Pradeep
 ```
 ## Output:
 
-![1](https://user-images.githubusercontent.com/75235477/165473194-052ad844-3765-4c3a-aabd-719a7fc13217.png)
+![165473194-052ad844-3765-4c3a-aabd-719a7fc13217](https://user-images.githubusercontent.com/75235477/174756665-08128110-7810-430c-9716-60248fdd72f7.png)
 
 ## Result:
 Thus the C# program to find the largest of three numbers is executed successfully
